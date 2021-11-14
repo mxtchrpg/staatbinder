@@ -1,6 +1,6 @@
 # RPG-City Keybinder für die Staatsfraktionen
 Keybinder für die Staatsgewalt -> (LSPD - FBI - ARMY - LVPD - SFPD)
-auf RPG CITY -> 
+auf RPG CITY
 - https://www.rpg-city.de & https://www.cp.rpg-city.de
 
 # Was benötige ich?
